@@ -1,0 +1,59 @@
+GUÍA DE ONBOARDING - Nuevos Empleados
+
+ANTES DE TU PRIMER DÍA
+Recibirás por email:
+- Contrato para firma digital (DocuSign)
+- Formularios de información personal
+- Instrucciones de acceso a sistemas
+- Agenda de tu primera semana
+Documentos requeridos para el primer día:
+- Identificación oficial vigente
+- Comprobante de domicilio reciente
+- Información bancaria para nómina
+- RFC y CURP
+
+TU PRIMER DÍA
+8:30 - Llegada y bienvenida en recepción
+9:00 - Reunión con RRHH (papeleo, credencial, tour)
+10:30 - Configuración de equipo con IT
+12:00 - Almuerzo de bienvenida con el equipo
+13:30 - Reunión con tu manager (objetivos del mes)
+15:00 - Capacitación de sistemas internos
+17:00 - Tiempo libre para configurar tu espacio
+
+PRIMERA SEMANA
+Día 1: Orientación general y setup
+Día 2: Capacitación de herramientas (Slack, Jira, GitHub)
+Día 3: Introducción al producto y arquitectura
+Día 4: Shadow sessions con miembros del equipo
+Día 5: Primera tarea real (con mentoría)
+Tu buddy asignado te acompañará durante las primeras 4 semanas.
+
+PRIMER MES
+Semana 1: Orientación y aprendizaje
+Semana 2: Primeras tareas con supervisión
+Semana 3: Trabajo más independiente
+Semana 4: Revisión de progreso con manager
+Al final del mes tendrás una reunión de feedback con RRHH.
+
+PERIODO DE PRUEBA
+Duración: 90 días.
+Evaluaciones: Al día 30, 60 y 90.
+Feedback continuo: Reuniones semanales con tu manager.
+Durante el periodo de prueba aplican todas las políticas y beneficios,
+excepto el presupuesto de capacitación (disponible después de los 90 días).
+
+SISTEMAS Y ACCESOS
+Email corporativo: nombre.apellido@techventures.com
+Slack: Serás añadido a canales relevantes automáticamente
+Jira: Acceso según tu rol y proyectos asignados
+GitHub: Acceso después de completar training de seguridad
+VPN: Configuración con IT en tu primer día
+Problemas de acceso: Contactar helpdesk@techventures.com o extensión 1234.
+
+CONTACTOS IMPORTANTES
+RRHH General: rrhh@techventures.com
+Nómina y beneficios: nomina@techventures.com
+IT Helpdesk: helpdesk@techventures.com / Ext. 1234
+Seguridad: security@techventures.com
+Tu manager: Ver organigrama en intranet

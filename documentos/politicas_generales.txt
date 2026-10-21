@@ -1,0 +1,37 @@
+POLÍTICAS GENERALES DE LA EMPRESA - TechVentures Inc.
+
+HORARIO DE TRABAJO
+Horario estándar: 9:00 a 18:00, de lunes a viernes.
+Horario flexible disponible: entrada entre 7:00-10:00, salida entre 16:00-19:00.
+Para solicitar horario flexible, envíe formulario HR-101 a su supervisor.
+El horario flexible requiere aprobación y mínimo 6 meses de antigüedad.
+Core hours obligatorias: 10:00 a 16:00 (todos deben estar disponibles).
+
+TRABAJO REMOTO
+Política híbrida: 3 días en oficina, 2 días remotos por semana.
+Días obligatorios en oficina: martes, miércoles y jueves.
+Días opcionales remotos: lunes y viernes.
+Para trabajo remoto extendido (más de 2 semanas):
+1. Solicitar con 30 días de anticipación
+2. Aprobación del manager directo y RRHH
+3. Máximo 4 semanas consecutivas al año
+Trabajo remoto internacional: requiere aprobación especial por temas fiscales.
+Contactar a legal@techventures.com antes de planificar.
+
+CÓDIGO DE VESTIMENTA
+Oficina: Business casual de lunes a jueves.
+Viernes: Casual day (jeans permitidos, no shorts ni sandalias).
+Reuniones con clientes: Business formal requerido.
+
+POLÍTICA DE COMUNICACIÓN
+Email: Responder en menos de 24 horas hábiles.
+Slack: Responder en menos de 4 horas durante horario laboral.
+Urgencias: Usar @channel solo para emergencias reales.
+Fuera de horario: No se espera respuesta. Respetar desconexión digital.
+Excepciones: Roles de guardia (on-call) tienen políticas específicas.
+
+CONFIDENCIALIDAD
+Todos los empleados firman NDA al ingresar.
+No compartir información de proyectos en redes sociales.
+No usar emails personales para asuntos de trabajo.
+Reportar cualquier brecha de seguridad a security@techventures.com.
