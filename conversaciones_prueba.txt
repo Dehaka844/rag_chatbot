@@ -1,0 +1,10 @@
+LOG DE LAS 6 CONVERSACIONES DE PRUEBA
+
+Este archivo se completará al implementar y ejecutar el chatbot.
+
+1. Flujo normal
+2. Uso de contexto
+3. Tema sensible
+4. Fuera de alcance
+5. Información restringida
+6. Pregunta compleja
